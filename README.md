@@ -11,7 +11,10 @@ Explore a collection of algorithms implemented in various programming languages.
 1. **Binary Search**
    - [JavaScript](binarySearch.js)
 
-2. **... (more algorithms coming soon)**
+2. **Quicksort**
+   -- [JavaScript](quickSort.js)
+   
+3. **... (more algorithms coming soon)**
 
 ## Follow Me on Social Media
 
